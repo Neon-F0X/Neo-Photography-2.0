@@ -208,7 +208,7 @@ main h1 {
 	clear: left;
 }	
 
-#portraits, #architecture and street photography {
+#portraits, #architecture and street photography, #synthetic nature{
 	width: 29%;
 	float: left;
 	margin: 0 2%;	
@@ -231,13 +231,27 @@ main h1 {
 	clear: left;
 	border-top: 1px solid #000;
 	border-bottom: 1px solid #000;
-    background-color: #4D4DFF;
-    padding: 1% 2%;
+   	background-color: #4D4DFF;
+    	padding: 1% 2%;
 }	
 #architecture dt {
 	font-weight: bold;
 }
 #architecture dd {
+	padding: 0.5% 1% 0;
+}
+
+#synthetic nature {
+	clear: left;
+	border-top: 1px solid #000;
+	border-bottom: 1px solid #000;
+	background-color: #4D4DFF;
+    	padding: 1% 2%;
+}
+#synthetic nature dt {
+	font-weight: bold;
+}
+#synthetic nature dd {
 	padding: 0.5% 1% 0;
 }
 /* Style rules for footer content */
