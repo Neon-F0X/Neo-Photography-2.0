@@ -243,9 +243,7 @@ main h1 {
 	
 #synthetic nature {
 	clear: left;
-	border-top: 1px solid #000;
-	border-bottom: 1px solid #000;
-	background-color: #4D4DFF;
+   	background-color: #4D4DFF;
     	padding: 1% 2%;
 }
 #synthetic nature dt {
