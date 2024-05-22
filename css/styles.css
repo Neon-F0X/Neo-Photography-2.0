@@ -1,4 +1,4 @@
- /*
+/*
 Author: Nathan Mayo
 Date: 5/8/24
 File Name: styles.css
@@ -235,10 +235,10 @@ main h1 {
     padding: 1% 2%;
 }	
 #architecture dt {
-	font-weght: bold;
+	font-weight: bold;
 }
 #architecture dd {
-	padding: 0.5%, 1%, 0;
+	padding: 0.5% 1% 0;
 }
 /* Style rules for footer content */
 footer p {
@@ -276,7 +276,7 @@ footer p {
 
 footer p a {
 	color: #FFFFFF;
-	text-docration: none;
+	text-decoration: none;
 }
 #introduction {
     border-top: 1px solid #000;
