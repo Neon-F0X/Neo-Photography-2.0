@@ -216,8 +216,8 @@ main h1 {
 
 #portraits {
 	clear: left;
-    background-color: #4D4DFF;
-    padding: 1% 2%;
+   	background-color: #4D4DFF;
+    	padding: 1% 2%;
 }
 #portraits dt{
 	font-weight: bold;
@@ -240,7 +240,7 @@ main h1 {
 #architecture dd {
 	padding: 0.5% 1% 0;
 }
-
+	
 #synthetic nature {
 	clear: left;
 	border-top: 1px solid #000;
