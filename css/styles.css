@@ -205,16 +205,7 @@ main h1 {
 	}
 	
 #introduction {
-	position: center;
-}	
-#early life {
-	position: center;
-}
-#other things about me {
-	position: center;
-}
-#books i wish to read {
-	position: center;
+	clear: left;
 }
 
 #portraits, #architecture and street photography, #synthetic nature {
