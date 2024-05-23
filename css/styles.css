@@ -219,6 +219,7 @@ main h1 {
 	border-top: 1px solid #000;
 	border-bottom: 1px solid #000;
    	background-color: #4D4DFF;
+	padding: 1% 2%;
 }
 #portraits dt{
 	font-weight: bold;
@@ -233,7 +234,7 @@ main h1 {
 	border-top: 1px solid #000;
 	border-bottom: 1px solid #000;
    	background-color: #4D4DFF;
-}	
+}	padding: 1% 2%;
 #architecture dt {
 	font-weight: bold;
 }
@@ -246,6 +247,7 @@ main h1 {
 	border-top: 1px solid #000;
 	border-bottom: 1px solid #000;
    	background-color: #4D4DFF;
+	padding: 1% 2%;
 }
 #synthetic nature dt {
 	font-weight: bold;
