@@ -200,8 +200,9 @@ main h1 {
 	
 #introduction, #early life, #other things about me, #books I wish to read {
 	width: 29%;
-	float: left;
+	float: center;
 	margin: 0 2%;
+	text-align: center;
 	}
 	
 #introduction {
@@ -210,8 +211,9 @@ main h1 {
 
 #portraits, #architecture and street photography, #synthetic nature {
 	width: 29%;
-	float: left;
-	margin: 0 2%;	
+	float: center;
+	margin: 0 2%;
+	text-align: center;
 }
 
 #portraits {
