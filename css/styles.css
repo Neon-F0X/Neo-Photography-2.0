@@ -211,11 +211,13 @@ main h1 {
 	width: 29%;
 	float: left;
 	margin: 0 2%;
-	text-align: left;
+	text-align: center;
 }
 
 #portraits {
 	clear: left;
+	border-top: 1px solid #000;
+	border-bottom: 1px solid #000;
    	background-color: #4D4DFF;
     	padding: 1% 2%;
 }
