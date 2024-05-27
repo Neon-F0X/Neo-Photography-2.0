@@ -211,31 +211,32 @@ main h1 {
 	width: 29%;
 	float: left;
 	margin: 0 2%;
-	text-align: center;
 }
 
 #portraits {
 	clear: left;
-	border-top: 1px solid #000;
    	background-color: #4D4DFF;
+	padding: 1% 2%;
 }
 #portraits dt{
 	font-weight: bold;
 }
 
 #portraits dd {
-	
+	padding: 0.5% 1% 0;
 }
 #architecture {
 	clear: left;
 	border-top: 1px solid #000;
 	border-bottom: 1px solid #000;
+	background-color:  #4D4DFF;
    	background-color: #4D4DFF;
 }	
 #architecture dt {
 	font-weight: bold;
 }
 #architecture dd {
+	padding: 0.5% 1% 0;
 }
 
 #synthetic nature {
@@ -243,11 +244,13 @@ main h1 {
 	border-top: 1px solid #000;
 	border-bottom: 1px solid #000;
    	background-color: #4D4DFF;
+	padding: 1% 2%
 }
 #synthetic nature dt {
 	font-weight: bold;
 }
 #synthetic nature dd {
+	padding: 0.5% 1% 0;
 }
 /* Style rules for footer content */
 footer p {
