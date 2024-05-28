@@ -152,8 +152,8 @@ footer p {
 	padding: 0 1em;
 }
 footer p a {
-    color: #fff;
-    text-decoration: none;
+    	color: #fff;
+    	text-decoration: none;
 }
 /* Media Query for Desktop Viewport */
 @media screen and (min-width: 1015px), print {
@@ -257,8 +257,8 @@ footer p {
 	padding: 0 1em;
 }
 footer p a {
-    color: #fff;
-    text-decoration: none;
+    	color: #fff;
+    	text-decoration: none;
 }
 /* Media Query for Large Desktop Viewports */
 @media screen and (min-width: 1921px) {
@@ -288,14 +288,14 @@ footer p a {
 	text-decoration: none;
 }
 #introduction {
-    border-top: 1px solid #000;
-    border-bottom: 1px solid #000;
-    background-color: #f2f2f2;
-    padding: 1% 2%;
+    	border-top: 1px solid #000;
+    	border-bottom: 1px solid #000;
+   	background-color: #f2f2f2;
+    	padding: 1% 2%;
 }
 #introduction dt {
-    font-weight: bold;
+    	font-weight: bold;
 }
 #introduction dd {
-    padding: 0.5% 1% 2% 0;	
+    	padding: 0.5% 1% 2% 0;	
 }
