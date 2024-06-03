@@ -24,7 +24,7 @@ img {
 header {
     position: sticky;
     top: 0;
-    background-color: #003060;
+    background-color: #fff;
     height: 190px;
 }
 /* Style rules for navigation area */
@@ -64,7 +64,7 @@ nav li a {
 }
 /* Style rules for main content */
 main {
-    background-color: #055C9D;
+    background-color: #fff;
     padding: 2%;
     font-size: 1.15em;
     font-family: "Rajdhani", sans-serif;;
